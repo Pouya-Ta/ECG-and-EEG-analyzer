@@ -89,9 +89,11 @@ The project is implemented in Python and organized as follows:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## Dataset
 
-This project is licensed under the MIT License.
+
+## Example output
+![Output](Example_Output.jpg)
 
 ## Acknowledgements
 
