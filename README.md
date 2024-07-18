@@ -62,7 +62,7 @@ The project is implemented in Python and organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecg-eeg-signal-analyzer.git
+   git clone https://github.com/your-username/ecg-and-eeg-analyzer.git
    cd ecg-eeg-signal-analyzer
    ```
 
@@ -73,7 +73,7 @@ The project is implemented in Python and organized as follows:
 
 3. Run the application:
    ```bash
-   python main.py
+   python AppFinal_ECG_EOG_Analyzer.py
    ```
 
 ## Usage
