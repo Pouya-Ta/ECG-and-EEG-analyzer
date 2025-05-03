@@ -1,5 +1,9 @@
 # ECG and EEG Signal Analyzer
 
+Course: Analog & Digital Communication Systems
+Course Instructor: Dr. Farnaz Ghassemi
+
+
 This project is a comprehensive ECG (Electrocardiogram) and EEG (Electroencephalogram) signal analysis tool designed with a user-friendly graphical interface using PyQt5 and powerful backend processing with libraries like NumPy, SciPy, WFDB, and MNE. The tool is capable of loading, visualizing, and analyzing ECG and EEG signals, with specific functionality for detecting QRS complexes in ECG signals and removing EOG artifacts from EEG signals.
 
 ## Features
